@@ -10,7 +10,7 @@
 <a href="https://www.facebook.com/profile.php?id=100012797800961">
     <img src ="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza">
 </a>
-<a href="">
+<a href="12345ggh81@gmail.com">
     <img src ="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com">
  </a>
 <br>
