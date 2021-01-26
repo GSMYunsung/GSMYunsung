@@ -1,7 +1,3 @@
-
-<!--방문자 수, 깃허브 팔로워 수-->
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fansohxxn&count_bg=%23FFC500&title_bg=%23555555&icon=diaspora.svg&icon_color=%23FFDD00&title=visitors&edge_flat=false)
-
 ![image](https://i.pinimg.com/originals/85/45/49/854549e819681d9549ed054625de6a8c.gif)
 
 ## 🧑‍💻 My About me
