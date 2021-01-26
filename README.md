@@ -22,4 +22,4 @@
 
 ## 📚 Progress
 
- ![choiyunsung's github stats](https://github-readme-stats.vercel.app/api?GSMYunsung=GSMYunsung)(https://github.com/anuraghazra/github-readme-stats)
+ ![[choiyunsung's github stats](https://github-readme-stats.vercel.app/apiGSMYunsung=GSMYunsung)](https://github.com/anuraghazra/github-readme-stats)
