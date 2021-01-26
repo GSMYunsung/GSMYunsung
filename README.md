@@ -10,9 +10,9 @@
 <a href="https://www.facebook.com/profile.php?id=100012797800961">
     <img src ="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza">
 </a>
-< href="">
+<a href="">
     <img src ="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com">
- 
+ </a>
 <br>
 
 조금씩 성장하는 게임공부를 하고있는 새싹 🌴 최윤성 학생입니다! 앞으로 점차 성장해 나갈께요! 제 깃허브에 들어와 주셔서 감사합니다.✨
