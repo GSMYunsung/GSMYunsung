@@ -20,7 +20,7 @@
 
 ## 🥇 My Stack
 
-<img src = "https://img.shields.io/badge/android-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-green"> <img src = "https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow"> <img src = "https://img.shields.io/badge/-C%23%20-black?style=flat&logo=C%20Sharp" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
+<img src = "https://img.shields.io/badge/android-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-green"> <img src = "https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow"> <img src = "https://img.shields.io/badge/C%23-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellowgreen">
 
 ## 📚 Progress
 
