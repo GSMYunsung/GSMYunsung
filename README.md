@@ -1,6 +1,6 @@
 ## *[GSM_ChoiYunSung]*
 
-<img src = "https://simpleicons.org/icons/android.svg" width="300" height="300"> <img src = "https://simpleicons.org/icons/kotlin.svg" width="300" height="300"> 
+<img src = "https://simpleicons.org/icons/android.svg" width="300" height="300"> <img src = "https://simpleicons.org/icons/kotlin.svg" width="200" height="200"> 
 
 ## 🧑‍💻 My About me
 
