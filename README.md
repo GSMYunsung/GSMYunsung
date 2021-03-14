@@ -15,7 +15,7 @@
  </a>
 <br>
 
-조금씩 성장하는 android공부를 하고있는 새싹 🌴 최윤성 학생입니다! 앞으로 점차 성장해 나갈께요! 제 깃허브에 들어와 주셔서 감사합니다.✨
+A sprout studying android that grows little by little 🌴 This is Yoonsung Choi! I enjoy studying on the computer and I am always passionate! I will gradually grow in the future! Thank you for joining my GitHub.✨
 
 
 ## 🥇 My Stack
