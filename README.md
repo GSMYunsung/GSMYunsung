@@ -1,5 +1,7 @@
 ## *[GSM_ChoiYunSung]*
 
+<img src = "https://simpleicons.org/icons/android.svg">
+
 ## 🧑‍💻 My About me
 
 <a href="https://GSMYunsung.github.io/">
