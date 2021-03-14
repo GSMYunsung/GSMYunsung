@@ -20,7 +20,7 @@
 
 ## 🥇 My Stack
 
-<img src = "https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-C%23%20-black?style=flat&logo=C%20Sharp" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
+<img src = "https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" style= height = "20"> <img src = "https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B" style="height : auto; margin-left : 2px; margin-right : 2px;"/> <img src = "https://img.shields.io/badge/-C%23%20-black?style=flat&logo=C%20Sharp" style="height : auto; margin-left : 2px; margin-right : 2px;"/>
 
 ## 📚 Progress
 
