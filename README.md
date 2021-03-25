@@ -13,7 +13,7 @@
 <a href="mailto:12345ggh81@gmail.com">
     <img src ="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com">
  </a>
- ![Twitter](https://img.shields.io/twitter/url?logo=Notion&style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.notion.so%2FGSMYunsung-ee5e591c0b174b2c984aa50df84fd137)
+ [Twitter](https://img.shields.io/twitter/url?logo=Notion&style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.notion.so%2FGSMYunsung-ee5e591c0b174b2c984aa50df84fd137)
 <br>
 
 A sprout studying android that grows little by little 🌴 This is Yoonsung Choi! I enjoy studying on the computer and I am always passionate! I will gradually grow in the future! Thank you for joining my GitHub.✨
