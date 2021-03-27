@@ -2,7 +2,7 @@
 
 <img src = "https://simpleicons.org/icons/android.svg" width="300" height="300"> <img src = "https://simpleicons.org/icons/kotlin.svg" width="200" height="200"> <img src = "https://simpleicons.org/icons/androidstudio.svg" width="300" height="300">
 
-## 🧑‍💻 My About me
+## 🧑‍💻 My About me!
 
 <a href="https://GSMYunsung.github.io/">
     <img src = "https://img.shields.io/badge/MY%20BLOG-yellow?&style=flat&logo=github&logoColor=black" style="height : auto; margin-right : 2px;"/>
