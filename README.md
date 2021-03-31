@@ -15,6 +15,8 @@
  </a>
 <a href="https://www.notion.so/GSMYunsung-ee5e591c0b174b2c984aa50df84fd137"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=Notion&logo=Notion&style=social&url=https%3A%2F%2Fwww.notion.so%2FGSMYunsung-ee5e591c0b174b2c984aa50df84fd137"></a>
 
+<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fsimpleicons.org%2Ficons%2Fbloglovin.svg"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=Blog&logo=Bloglovin&style=social&url=https%3A%2F%2Fvelog.io%2F%40yunsung_"></a>
+
 A sprout studying android that grows little by little 🌴 This is Yoonsung Choi! I enjoy studying on the computer and I am always passionate! I will gradually grow in the future! Thank you for joining my GitHub.✨
 
 
