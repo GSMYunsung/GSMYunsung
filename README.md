@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Hi there👋&fontSize=100" />
 
-
-<img src = "https://media.vlpt.us/images/jaeyunn_15/post/e4e49f0d-8f56-4f72-8b0f-129c65d65c3d/android.gif">
 ## 🧑‍💻 My About me!
 
 <a href="https://GSMYunsung.github.io/">
