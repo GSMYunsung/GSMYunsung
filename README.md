@@ -28,6 +28,7 @@ A sprout studying android that grows little by little 🌴 This is Yoonsung Choi
 
 <img src = "https://img.shields.io/badge/Unity-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-black">
 
+<img src = "https://media.vlpt.us/images/jaeyunn_15/post/e4e49f0d-8f56-4f72-8b0f-129c65d65c3d/android.gif">
 
 ## 📚 Progress
 
