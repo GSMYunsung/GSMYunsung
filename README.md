@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Hi there👋&fontSize=100" />
 
-## 🧑‍💻 My About me!
+## 🧑‍💻 My About me!!
 
 <a href="https://GSMYunsung.github.io/">
     <img src = "https://img.shields.io/badge/MY%20BLOG-yellow?&style=flat&logo=github&logoColor=black" style="height : auto; margin-right : 2px;"/>
