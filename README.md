@@ -28,6 +28,11 @@ A sprout studying android that grows little by little 🌴 This is Yoonsung Choi
 
 <img src = "https://img.shields.io/badge/Unity-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-black">
 
+## 🎨 design
+
+<a href="https://www.notion.so/UI_UX-db21235e755a49afa661bd838d503dbf"></a>
+
+
 ## 📚 Progress
 
 [![ChoiYunSung's github stats](https://github-readme-stats.vercel.app/api?username=GSMYunsung)](https://github.com/anuraghazra/github-readme-stats)
