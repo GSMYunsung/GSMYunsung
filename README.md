@@ -30,7 +30,7 @@ A sprout studying android that grows little by little 🌴 This is Yoonsung Choi
 
 ## 🎨 design
 
-<a href="https://www.notion.so/UI_UX-db21235e755a49afa661bd838d503dbf"></a>
+<a href="https://www.notion.so/UI_UX-db21235e755a49afa661bd838d503dbf"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=Notion&logo=Notion&style=social&url=https%3A%2F%2Fwww.notion.so%2FGSMYunsung-ee5e591c0b174b2c984aa50df84fd137"></a>
 
 
 ## 📚 Progress
