@@ -21,12 +21,18 @@ A sprout studying android that grows little by little 🌴 This is Yoonsung Choi
 
 ## 🥇 My Stack
 
-<img src = "https://img.shields.io/badge/android-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-green"> <img src = "https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow"> <img src = "https://img.shields.io/badge/C%23-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-yellowgreen">
-<img src = "https://camo.githubusercontent.com/eb89c5ee00f1f96b82812e5693a2b2c8ee0e664fd6dfd1fdf18384eb18511df3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f746c696e2d2545322539382538352545322539382538352545322539382538362545322539382538362545322539382538362d3030393544353f7374796c653d706c6173746963266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465">
+<p align="center">
+   
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
+  
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
-## 🥈 Substack
 
-<img src = "https://img.shields.io/badge/Unity-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-black">
+ <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /> 
+</p>
 
 ## 🎨 design
 
