@@ -1,8 +1,10 @@
-## Hello I'm Choi Yun Sung
+<div align="center">
+   
+### Hello I'm Choi Yun Sung
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Hi%20there%F0%9F%91%8B&fontSize=100" />
 
-### Here's some fun facts about me
+### Here's some fun facts about me 💡
 <br>
 - ⭐ currently working on web-development
 <br>
@@ -12,7 +14,7 @@
 <br>
 - 🎓 Graduated from Gwangju Software Meister High School
 
-## Skills Showcase 🧑‍💻
+### Skills Showcase 🧑‍💻
 
 #### Languages
 
@@ -31,11 +33,11 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,git,github)](https://skillicons.dev)
 
 
-## Progress 📊
+### Progress 📊
 
 [![ChoiYunSung's github stats](https://github-readme-stats.vercel.app/api?username=GSMYunsung)](https://github.com/anuraghazra/github-readme-stats)
 
-## Connect with me ☕
+### Connect with me ☕
 
 <br>
 
@@ -43,5 +45,6 @@
 
 <br>
 
+</div>
 
 
