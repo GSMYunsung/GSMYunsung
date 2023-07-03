@@ -1,6 +1,7 @@
 ## Hello I'm Choi Yun Sung
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Hi%20there%F0%9F%91%8B&fontSize=100" />
+<br>
 ### Here's some fun facts about me
 <br>
 - ⭐ currently working on web-development
