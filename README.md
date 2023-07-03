@@ -1,6 +1,6 @@
 ## *[GSM_ChoiYunSung]*
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Hi there👋&fontSize=100" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Hi%20there%F0%9F%91%8B&fontSize=100" />
 
 ## 🧑‍💻 My About me!!
 
