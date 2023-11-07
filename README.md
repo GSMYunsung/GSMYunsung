@@ -1,6 +1,6 @@
 <div align="center">
    
-### Hello I'm Choi Yun Sung
+### [Hello I'm Choi Yun Sung](https://www.notion.so/5b0453de25c94a26a8b1e877490ce78f?pvs=4)
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Hi%20there%F0%9F%91%8B&fontSize=100" />
 
