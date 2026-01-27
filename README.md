@@ -45,8 +45,6 @@
 
 <br>
 
-![githubImg](https://firebasestorage.googleapis.com/v0/b/git-cross-stitch.firebasestorage.app/o/my-stitch.png?alt=media&token=d4f85125-e923-4f77-a0a4-bea50bc33ee4)
-
 </div>
 
 
