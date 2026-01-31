@@ -45,6 +45,8 @@
 
 <br>
 
+<img src="https://firebasestorage.googleapis.com/v0/b/git-cross-stitch.firebasestorage.app/o/images%2FWDtORd3WbQU4l3Aj1nsFjLa4ump1.png?alt=media&token=68052659-8e81-42fd-98d1-2c4d73d95ec8" width="200" height="400"/>
+
 </div>
 
 
