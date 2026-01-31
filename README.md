@@ -39,7 +39,6 @@
 
 ### Connect with me ☕
 
-![My Cross Stitch](https://firebasestorage.googleapis.com/v0/b/git-cross-stitch.firebasestorage.app/o/images%2FWDtORd3WbQU4l3Aj1nsFjLa4ump1.png?alt=media&token=2da4fa3a-e465-4b41-81be-ac47c989d330)
 <br>
 
 [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/_qc_up_/) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/%EC%9C%A4%EC%84%B1-%EC%B5%9C-95b60326a/) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:01065464107) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](mailto:12345ggh81@gmail.com)
