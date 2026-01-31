@@ -35,7 +35,7 @@
 
 ### Progress 📊
 
-[![ChoiYunSung's github stats](https://github-readme-stats.vercel.app/api?username=GSMYunsung)](https://github.com/anuraghazra/github-readme-stats)
+[![GSMYunsung's GitHub stats](https://github-readme-stats.vercel.app/api?username=GSMYunsung&show_icons=true&theme=radial)](https://github.com/GSMYunsung)
 
 ### Connect with me ☕
 
