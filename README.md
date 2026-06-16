@@ -1,6 +1,6 @@
 ## 🙌 Yun Sung Choi
  
-#### Full-Stack Developer | Web Development Enthusiast | 광주소프트웨어마이스터고등학교 졸업
+#### Web Development Enthusiast | 광주소프트웨어마이스터고등학교 졸업
  
 "사용자를 중심으로 생각하는 개발자, 끊임없이 배우고 성장하려는 개발자"
  
