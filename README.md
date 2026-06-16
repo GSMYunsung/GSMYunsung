@@ -1,6 +1,3 @@
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20👋&fontSize=90&fontColor=ffffff)
- 
 ## 🙌 Yun Sung Choi
  
 #### Full-Stack Developer | Web Development Enthusiast | 광주소프트웨어마이스터고등학교 졸업
