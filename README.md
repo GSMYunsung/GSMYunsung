@@ -88,7 +88,7 @@
 ---
  
 <div>
-  <img src=https://firebasestorage.googleapis.com/v0/b/git-cross-stitch.firebasestorage.app/o/images%2FWDtORd3WbQU4l3Aj1nsFjLa4ump1.png?alt=media&token=f3482047-9bd2-4261-9f81-84fa1f48718b width="200" height="400"/>
+  <img src=https://firebasestorage.googleapis.com/v0/b/git-cross-stitch.firebasestorage.app/o/images%2FWDtORd3WbQU4l3Aj1nsFjLa4ump1.png?alt=media&token=f3482047-9bd2-4261-9f81-84fa1f48718b width="200" height="200"/>
 </div>
 ---
  
