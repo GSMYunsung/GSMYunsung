@@ -88,7 +88,7 @@
 ---
  
 <div>
-  <img src=https://firebasestorage.googleapis.com/v0/b/git-cross-stitch.firebasestorage.app/o/images%2FZZPkOyPyMUatFYRA5YmW4cu0ALg1.png?alt=media&token=cd9f0d67-b7ec-472a-8458-fe67f5a8f44c width="200" height="200"/>
+  <img src="https://cross-stitch-neon.vercel.app/api/readme-card/ZZPkOyPyMUatFYRA5YmW4cu0ALg1" width="500" height="215"/>
 </div>
 ---
  
